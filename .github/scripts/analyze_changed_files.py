@@ -22,7 +22,7 @@ import sys
 import re
 import os
 import pprint
-
+Skibidi Gato
 
 def load_config(config_file):
     """Load the configuration from a JSON file."""
